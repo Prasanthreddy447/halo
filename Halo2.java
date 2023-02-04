@@ -1,0 +1,3 @@
+class Halo2
+{
+}
